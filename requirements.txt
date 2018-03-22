@@ -1,0 +1,8 @@
+tweepy
+pymongo
+oauth2
+codecs
+urllib2
+codecs
+datetime
+
